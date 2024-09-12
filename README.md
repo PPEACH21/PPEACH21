@@ -6,8 +6,8 @@
 
 <h2 align="center">⬇️ About Me ⬇️ </h2>
 
-👀 I’m interested in Coding 👀
+<h3 align="center"> 👀 I’m interested in Coding 👀 </h3>
 
-🌱 I’m currently learning about GameDesign,Algorithm,C++ 🌱
+<h3 align="center"> 🌱 I’m currently learning about GameDesign,Algorithm,C++ 🌱  </h3>
 
-⚡ Fun fact I'm pretty good at graphic design and can code a little.. I guess🤣! ⚡
+<h3 align="center"> ⚡ Fun fact I'm pretty good at graphic design and can code a little.. I guess🤣! ⚡ </h3>
