@@ -11,8 +11,6 @@
 <h2> 👨‍💻 Coding 👾 </h2>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/PPEACH)
-[![Vjudge](https://img.shields.io/badge/Vjudge-%2300A3E0.svg?logo=Vjudge&logoColor=white)](https://vjudge.net/user/Peepathz1201)
-
 
 <h2> 📱 Social 🌍 </h2>
 
